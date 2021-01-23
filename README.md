@@ -34,4 +34,4 @@ Designed, Implemented and Simulated an IoT based Home Automation System(HMS), us
 
 ```
 
-![Screenshot](fourth.png)
+![Screenshot](forth.png)
